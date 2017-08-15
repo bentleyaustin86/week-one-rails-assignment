@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe StaticControllerController, type: :controller do
+RSpec.describe StaticController, type: :controller do
 
   describe "GET #qoutes" do
     it "returns http success" do
